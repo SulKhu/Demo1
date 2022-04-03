@@ -1,4 +1,4 @@
-// Written by **insert name here**
+// Written by Sulaimaan K
 // A demonstration of basic Git commands & practice of declaring variables in Java
 
 public class Demo {
